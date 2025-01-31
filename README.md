@@ -96,6 +96,8 @@ Data Source
 Data Pre-Processing
 ======================
 
+The data pre-processing partially follows the code in [Y-Net](https://github.com/HarshayuGirase/Human-Path-Prediction/tree/master/ynet).
+
 Run 
 ```
 cd data
